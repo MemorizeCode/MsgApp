@@ -1,0 +1,24 @@
+1. Открываем 2 терминала
+2. В первом терминале пишем 
+    1. cd client
+    2. npm install
+    3. npm run dev
+    4. Открываем ссылку
+3. Во втором терминале пишем
+    1. cd server
+    2. npm install
+    3. npm run start:dev
+
+В server папке есть .env файл, который содержит настройку DATABASE, если надо поменять порт, меняем.
+Так-же открываем например Open server и импортируем файл базы данных
+
+
+p.s
+
+инфа об аккаунтах (вроде верно)
+
+login: FFFFF
+password: 1234
+
+login: fire1234
+password: qwerty
